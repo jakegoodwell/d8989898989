@@ -1,0 +1,18 @@
+  <div class="dropdown">          <a class="dropdown-toggle"
+  id="id_view_as_dropdown_button" role="button" data-toggle="dropdown" href="#">           
+  <span id="id_viewing_as_username">dianefeinstein</span>            <span class="caret"></span>          </a>         
+  <ul id="id_view_as_dropdown_menu" class="dropdown-menu pull-right" role="menu" aria-labelledby="id_view_as_dropdown_button">         
+  <li role="presentation"><a role="menuitem" href="/user/busterposey/">Switch to busterposey</a></li>                         
+  <li role="presentation"><a role="menuitem" href="/user/alexovechkin/">Switch to alexovechkin</a></li>                        
+  <li role="presentation"><a role="menuitem" href="/user/benoitsevres/">Switch to benoitsevres</a></li>                        
+  <li role="presentation"><a role="menuitem" href="/user/benshapiro95/">Switch to benshapiro95</a></li>                          
+  <li role="presentation"><a role="menuitem" href="/user/dianefeinstein/">Switch to dianefeinstein</a></li>                          
+  <li role="presentation"><a role="menuitem" href="/user/helentsakas/">Switch to helentsakas</a></li>                       
+  <li role="presentation"><a role="menuitem" href="/user/jackcousteau/">Switch to jackcousteau</a></li>                        
+  <li role="presentation"><a role="menuitem" href="/user/jeanmeurs/">Switch to jeanmeurs</a></li>                         
+  <li role="presentation"><a role="menuitem" href="/user/jimcomey/">Switch to jimcomey</a></li>                          
+  <li role="presentation"><a role="menuitem" href="/user/larryfast/">Switch to larryfast</a></li>                         
+  <li role="presentation"><a role="menuitem" href="/user/olgakorbit/">
+  Switch to olgakorbit</a></li>                      </ul>        </div>          </div>
+  
+  
